@@ -1,0 +1,2 @@
+# C_STRUCT_PRINTER
+C语言中像python那样打印结构体成员
